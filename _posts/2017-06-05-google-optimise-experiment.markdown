@@ -13,21 +13,21 @@ I've deployed some Simple Google Optimise code across this site, and have also i
 
 
 With the free version, you are able to perform:
-- A/B testing
-- Integrate with GA reporting
-- Some Multivariate testing
-- Redirect tests
-- Some targeting
+1. A/B testing
+2. Integrate with GA reporting
+3. Some Multivariate testing
+4. Redirect tests
+5. Some targeting
 
 
 
 The full version (Optimize 360) will provide:
-- Google Analytics audience targeting
+1. Google Analytics audience targeting
 
 
 
 As part of an A/B test you can:
-- edit an experiment with the Visual Editor
-- add css or javascript directly in the editor
-- Select audience based on javascript variables/ first party cookies/ datalayer variables
-- Can integrate an optimise experiment into an activation event (datalayer.push)
+1. edit an experiment with the Visual Editor
+2. add css or javascript directly in the editor
+3. Select audience based on javascript variables/ first party cookies/ datalayer variables
+4. Can integrate an optimise experiment into an activation event (datalayer.push)
