@@ -1,6 +1,6 @@
 ---
 title:  "Google Optimise Experiment"
-date:   2017-05-19 23:23:00
+date:   2017-06-05 23:23:00
 description: A/B test in progress...
 ---
 
