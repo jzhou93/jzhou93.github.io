@@ -4,10 +4,10 @@ date:   2017-06-05 23:23:00
 description: A/B test in progress...
 ---
 
-Time to test what Google Optimise can do!
+Google recently released a free optimisation and testing tool, I thought I'd try it out.
 
 I have just created a test Google Optimise Multivariate page with 2 different variations.
-Google Optimise just release this FREE A/B testing tool that is part of the Google 360 suite.
+
 I've deployed some Simple Google Optimise code across this site, and have also integrated this with Google Analytics for reporting purposes.
 
 
