@@ -7,7 +7,6 @@ headerImage: false
 tag:
 - travel
 - tech
-star: true
 category: blog
 author: jessezhou
 description: My experience with bikesharing in Shanghai

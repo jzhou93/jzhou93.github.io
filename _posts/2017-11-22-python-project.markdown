@@ -5,8 +5,7 @@ layout: post
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- life
-star: true
+- work
 category: blog
 author: jessezhou
 description: What I have learnt after completing a project with Python

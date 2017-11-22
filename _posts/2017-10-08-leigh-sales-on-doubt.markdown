@@ -6,7 +6,6 @@ image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - life
-star: true
 category: blog
 author: jessezhou
 description: A reflection of an essay
