@@ -31,30 +31,30 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  categories: [project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+# twitter: mytwitter
 # google: mygoogle
-# instagram: myinstagram
+instagram: jaycar
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: jessezhou
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+# github: mygithub
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+medium: jessezhou93
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: jessezhou@gmail.com
 
 authors:
-    johndoe:
-        name: Jesse
+    jessezhou:
+        name: Jesse Zhou
         bio: Average
         external-image: false
         picture: assets/images/jesse.jpg
@@ -70,7 +70,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true
