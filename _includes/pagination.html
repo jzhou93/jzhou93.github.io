@@ -1,22 +1,10 @@
-<nav id="post-nav">
-    {% if paginator.previous_page %}
-        <span class="prev">
-            {% if paginator.previous_page == 1 %}
-                <a href="{{ site.baseurl }}" title="Previous Page">
-                    <span class="arrow">←</span> Newer Posts
-                </a>
-            {% else %}
-                <a href="{{ site.baseurl }}page{{ paginator.previous_page }}/">
-                    <span class="arrow">←</span> Newer Posts
-                </a>
-            {% endif %}
-        </span>
-    {% endif %}
-    {% if paginator.next_page %}
-        <span class="next">
-            <a href="{{ site.baseurl }}page{{ paginator.next_page }}/">
-                Older Posts <span class="arrow">→</span>
-            </a>
-        </span>
-    {% endif %}
-</nav>
+{% if counter > 5 %}
+    <div class="col-lg-6 col-lg-offset-6">
+		<div class="pag-holder"></div>
+	</div>
+{% endif %}
+{% if counter == 0 %}
+    <div class="col-lg-8 col-lg-offset-2">
+		<p>Sorry,no blog！</p>
+    </div>
+{% endif %}
