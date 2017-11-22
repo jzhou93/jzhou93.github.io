@@ -5,9 +5,7 @@ date: 2017-05-19 23:23
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- components
-- extra
+- inspire
 category: blog
 author: jessezhou
 description: Markdown summary with different options

@@ -1,9 +1,17 @@
 ---
 title:  "Python Programming"
 date:   2017-11-22 17:10:00
+layout: post
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- life
+star: true
+category: blog
+author: jessezhou
 description: What I have learnt after completing a project with Python
 ---
-What I have learnt after completing a project with Python
+
 
 Disclaimer: By no means am I a professional programmer, I am largely self taught and try to find the best way to solve a particular problem as it comes up.
 

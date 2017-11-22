@@ -1,8 +1,17 @@
 ---
 title:  "Leigh Sales - On Doubt"
 date:   2017-10-08 17:10:00
+layout: post
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- life
+star: true
+category: blog
+author: jessezhou
 description: A reflection of an essay
 ---
+
 
 On Doubt,
 

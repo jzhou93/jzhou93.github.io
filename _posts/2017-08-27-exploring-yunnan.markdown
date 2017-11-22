@@ -1,8 +1,19 @@
 ---
 title:  "A week in Yunnan"
 date:   2017-08-27 17:10:00
+layout: post
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- travel
+- life
+category: blog
+author: jessezhou
 description: Lijiang and surrounds, a trip outside of big city China.
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
+
+
 
 Lijiang is a historic town in the province on Yunnan in Southwestern China that was designated a world heritage site. I wanted to explore more of China as I have largely stayed in the bigger cities in the number of times that I have visited - usually with family, where we spent most of the time at relatives apartments and in restaurants. We decided to visit Yunnan and in particular Lijiang, which is well known for having a preserved old town.
 

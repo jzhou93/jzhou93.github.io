@@ -2,20 +2,16 @@
 title:  "Bikesharing in Shanghai"
 date:   2017-07-02 17:10
 layout: post
-date: 2016-02-24 22:44
 image: /assets/images/markdown.jpg
 headerImage: false
-hidden: true # don't count this post in blog pagination
 tag:
-- markdown
-- elements
+- travel
+- tech
 star: true
 category: blog
-author: johndoe
-description: Markdown summary with different options
+author: jessezhou
+description: My experience with bikesharing in Shanghai
 ---
-
-Summary: My experience with bikesharing in Shanghai
 
 Millions of people have signed up and actively use shared bikes on apps such as Ofo and Mobike in China, both of which launched last year. The concept is that you are able to pick up any of the share bikes that are left on the street, unlock it with your phone, and start riding. You are then able to park and lock it for someone else to use once you have reached your destination.
 
